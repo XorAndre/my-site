@@ -1,0 +1,12 @@
+/*Imports fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;700;800;900&display=swap');
+/*Fonts*/
+:root{
+    --montserrat: 'Montserrat', sans-serif;
+}
+/*Resets Mídias*/
+audio, img, video, iframe{
+    display: inline-block;
+    height: auto;
+    width: 100%;
+}
